@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小白白的神秘圣地</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://xiaobaibai.com.cn/"/>
+  <updated>2020-04-17T15:35:42.363Z</updated>
+  <id>http://xiaobaibai.com.cn/</id>
+  
+  <author>
+    <name>Li Bai</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hammer-C1</title>
+    <link href="http://xiaobaibai.com.cn/2020/04/17/Hammer-C1/"/>
+    <id>http://xiaobaibai.com.cn/2020/04/17/Hammer-C1/</id>
+    <published>2020-04-17T18:19:34.000Z</published>
+    <updated>2020-04-17T15:35:42.363Z</updated>
+    
+    <summary type="html">
+    
+      写个锤子写
+    
+    </summary>
+    
+      <category term="随想" scheme="http://xiaobaibai.com.cn/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+      <category term="小说" scheme="http://xiaobaibai.com.cn/tags/%E5%B0%8F%E8%AF%B4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>本站域名设置cdn加速</title>
+    <link href="http://xiaobaibai.com.cn/2020/04/16/cdn/"/>
+    <id>http://xiaobaibai.com.cn/2020/04/16/cdn/</id>
+    <published>2020-04-16T17:54:50.000Z</published>
+    <updated>2020-04-17T15:35:42.363Z</updated>
+    
+    <summary type="html">
+    
+      给本站添加cdn加速的过程
+    
+    </summary>
+    
+      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="cdn 阿里云 域名解析配置" scheme="http://xiaobaibai.com.cn/tags/cdn-%E9%98%BF%E9%87%8C%E4%BA%91-%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90%E9%85%8D%E7%BD%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开篇</title>
+    <link href="http://xiaobaibai.com.cn/2020/04/16/evils/"/>
+    <id>http://xiaobaibai.com.cn/2020/04/16/evils/</id>
+    <published>2020-04-16T00:10:36.000Z</published>
+    <updated>2020-04-17T15:35:42.363Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;万物皆有起源-这是开站第一篇博客&quot;&gt;&lt;a href=&quot;#万物皆有起源-这是开站第一篇博客&quot; class=&quot;headerlink&quot; title=&quot;万物皆有起源-这是开站第一篇博客&quot;&gt;&lt;/a&gt;万物皆有起源-这是开站第一篇博客&lt;/h1&gt;&lt;h2
+        
+      
+    
+    </summary>
+    
+      <category term="日常" scheme="http://xiaobaibai.com.cn/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-Theme-Sakura</title>
+    <link href="http://xiaobaibai.com.cn/2018/12/12/Hexo-Theme-Sakura/"/>
+    <id>http://xiaobaibai.com.cn/2018/12/12/Hexo-Theme-Sakura/</id>
+    <published>2018-12-12T22:16:01.000Z</published>
+    <updated>2020-04-17T15:35:42.363Z</updated>
+    
+    <summary type="html">
+    
+      hexo-sakura主题使用教程
+    
+    </summary>
+    
+      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="web" scheme="http://xiaobaibai.com.cn/tags/web/"/>
+    
+      <category term="悦读" scheme="http://xiaobaibai.com.cn/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+  </entry>
+  
+</feed>
