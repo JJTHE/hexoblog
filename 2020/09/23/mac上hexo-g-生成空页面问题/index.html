@@ -431,24 +431,22 @@
         <!--<div class="toc-entry-content"><!-- 套嵌目录使用（主要为了支援评论）-->
         
         <div class="entry-content">
-          <h2 id="我回来啦"><a href="#我回来啦" class="headerlink" title="我回来啦"></a>我回来啦</h2><h4 id="之前遇到了一个一直没有办法解决的问题"><a href="#之前遇到了一个一直没有办法解决的问题" class="headerlink" title="之前遇到了一个一直没有办法解决的问题"></a>之前遇到了一个一直没有办法解决的问题</h4><pre><code>毕业的时候新买了个mac，将代码down到新电脑上之后，将博客页面推送上去总有问题。
-</code></pre><p>每次在本地 hexo g 生成的页面浏览起来没有问题。<br>但是hexo d 推送上去的页面全部都是空的。<br>    各方面寻找问题都没有解决，也尝试过重新安装hexo，重新配置网站配置。但是都没有<br>效果。最近突然想起来了这个问题，在网上搜了一下之后发现，有人跟我的问题很像，但是他<br>的解决办法我不能用。我就按照他排查我问题的思路<br>使用<br>    hexo s –debug<br>来查看一下运行时的异常。<br>找到了报错：</p>
+          <h2 id="我回来啦"><a href="#我回来啦" class="headerlink" title="我回来啦"></a>我回来啦</h2><h4 id="之前遇到了一个一直没有办法解决的问题"><a href="#之前遇到了一个一直没有办法解决的问题" class="headerlink" title="之前遇到了一个一直没有办法解决的问题"></a>之前遇到了一个一直没有办法解决的问题</h4><p>毕业的时候新买了个mac，将代码down到新电脑上之后，将博客页面推送上去总有问题。<br>每次在本地 hexo g 生成的页面浏览起来没有问题。<br>但是hexo d 推送上去的页面全部都是空的。<br>    各方面寻找问题都没有解决，也尝试过重新安装hexo，重新配置网站配置。但是都没有<br>效果。最近突然想起来了这个问题，在网上搜了一下之后发现，有人跟我的问题很像，但是他<br>的解决办法我不能用。我就按照他排查我问题的思路<br>使用<br>    hexo s –debug<br>来查看一下运行时的异常。<br>找到了报错：</p>
 <pre><code class="控制台报错">(node:23537) Warning: Accessing non-existent property &#39;lineno&#39; of module exports inside circular dependency
 </code></pre>
 <p>搜了一下这个报错，有很多种问题的根源和解决方法。</p>
 <h3 id="官方-issues-https-github-com-stylus-stylus-issues-2534"><a href="#官方-issues-https-github-com-stylus-stylus-issues-2534" class="headerlink" title="官方 issues https://github.com/stylus/stylus/issues/2534"></a>官方 issues <a href="https://github.com/stylus/stylus/issues/2534" target="_blank" rel="noopener">https://github.com/stylus/stylus/issues/2534</a></h3><h3 id="https-blog-csdn-net-weixin-42405223-article-details-106270431"><a href="#https-blog-csdn-net-weixin-42405223-article-details-106270431" class="headerlink" title="https://blog.csdn.net/weixin_42405223/article/details/106270431"></a><a href="https://blog.csdn.net/weixin_42405223/article/details/106270431" target="_blank" rel="noopener">https://blog.csdn.net/weixin_42405223/article/details/106270431</a></h3><p>提到了node版本过高导致的报错。</p>
 <h2 id="降低node版本"><a href="#降低node版本" class="headerlink" title="降低node版本"></a>降低node版本</h2><p>我不记得mac上的node是我自己下载的还是自带的，版本是14</p>
 <p>尝试安装了node版本管理模块</p>
-<p><code>`</code> 安装n –node版本管理</p>
-<p>sudo npm install n -g </p>
-<pre><code>
-## 完成后切换到稳定版本
+<pre><code class="安装node版本管理">
+sudo npm install n -g
 
-``` 切换node版本
-
+</code></pre>
+<h2 id="完成后切换到稳定版本"><a href="#完成后切换到稳定版本" class="headerlink" title="完成后切换到稳定版本"></a>完成后切换到稳定版本</h2><pre><code class="切换node版本">
 sudo n stable
 
-</code></pre><h2 id="切换版本之后-hexo-s-–debug-不再报错"><a href="#切换版本之后-hexo-s-–debug-不再报错" class="headerlink" title="切换版本之后 hexo s –debug 不再报错"></a>切换版本之后 hexo s –debug 不再报错</h2><p>推送正常</p>
+</code></pre>
+<h2 id="切换版本之后-hexo-s-–debug-不再报错"><a href="#切换版本之后-hexo-s-–debug-不再报错" class="headerlink" title="切换版本之后 hexo s –debug 不再报错"></a>切换版本之后 hexo s –debug 不再报错</h2><p>推送正常</p>
 <p>我回来了hhh</p>
 
         </div>
