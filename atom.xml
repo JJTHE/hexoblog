@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>小白白的神秘圣地</title>
+  
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://xiaobaibai.com.cn/"/>
+  <updated>2020-06-14T16:45:43.232Z</updated>
+  <id>http://xiaobaibai.com.cn/</id>
+  
+  <author>
+    <name>Li Bai</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>氟化工泄漏风险评估计算器使用反馈</title>
+    <link href="http://xiaobaibai.com.cn/2020/06/04/%E6%B0%9F%E5%8C%96%E5%B7%A5%E6%B3%84%E6%BC%8F%E9%A3%8E%E9%99%A9%E8%AF%84%E4%BC%B0%E8%AE%A1%E7%AE%97%E5%99%A8%E4%BD%BF%E7%94%A8%E5%8F%8D%E9%A6%88/"/>
+    <id>http://xiaobaibai.com.cn/2020/06/04/氟化工泄漏风险评估计算器使用反馈/</id>
+    <published>2020-06-03T17:12:16.000Z</published>
+    <updated>2020-06-14T16:45:43.232Z</updated>
+    
+    <summary type="html">
+    
+      氟化工管路泄漏风险计算器使用问题反馈
+    
+    </summary>
+    
+      <category term="生活" scheme="http://xiaobaibai.com.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="BUG反馈" scheme="http://xiaobaibai.com.cn/tags/BUG%E5%8F%8D%E9%A6%88/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>汉诺塔问题</title>
+    <link href="http://xiaobaibai.com.cn/2020/05/04/%E6%B1%89%E8%AF%BA%E5%A1%94%E9%97%AE%E9%A2%98/"/>
+    <id>http://xiaobaibai.com.cn/2020/05/04/汉诺塔问题/</id>
+    <published>2020-05-04T05:04:33.000Z</published>
+    <updated>2020-06-14T16:45:43.233Z</updated>
+    
+    <summary type="html">
+    
+      汉诺塔问题的一个C#递归解法
+    
+    </summary>
+    
+      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="汉诺塔问题 算法" scheme="http://xiaobaibai.com.cn/tags/%E6%B1%89%E8%AF%BA%E5%A1%94%E9%97%AE%E9%A2%98-%E7%AE%97%E6%B3%95/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>codeSnippet</title>
+    <link href="http://xiaobaibai.com.cn/2020/05/03/codeSnippet/"/>
+    <id>http://xiaobaibai.com.cn/2020/05/03/codeSnippet/</id>
+    <published>2020-05-03T11:02:16.000Z</published>
+    <updated>2020-06-14T16:45:43.231Z</updated>
+    
+    <summary type="html">
+    
+      VS在使用中，会用许多自定义的输入模板，比如CW+两下tab，自动补全为Console.WriteLine();
+    
+    </summary>
+    
+      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="code snippet" scheme="http://xiaobaibai.com.cn/tags/code-snippet/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>C#-lessons-note</title>
+    <link href="http://xiaobaibai.com.cn/2020/05/02/C-lessons-02-note/"/>
+    <id>http://xiaobaibai.com.cn/2020/05/02/C-lessons-02-note/</id>
+    <published>2020-05-02T01:58:01.000Z</published>
+    <updated>2020-06-14T16:45:43.230Z</updated>
+    
+    <summary type="html">
+    
+      B站刘铁猛C#课程学习笔记
+    
+    </summary>
+    
+      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="C#" scheme="http://xiaobaibai.com.cn/tags/C/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WPF控件使用方法</title>
+    <link href="http://xiaobaibai.com.cn/2020/04/21/WPF%E6%8E%A7%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/"/>
+    <id>http://xiaobaibai.com.cn/2020/04/21/WPF控件使用方法/</id>
+    <published>2020-04-21T12:26:35.000Z</published>
+    <updated>2020-06-14T16:45:43.230Z</updated>
+    
+    <summary type="html">
+    
+      网上找不到WPF各个控件的详细使用文档，在这里做一个初步总结
+    
+    </summary>
+    
+      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="WPF控件" scheme="http://xiaobaibai.com.cn/tags/WPF%E6%8E%A7%E4%BB%B6/"/>
+    
+      <category term="使用方法总结" scheme="http://xiaobaibai.com.cn/tags/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>毕业设计的设计思路</title>
+    <link href="http://xiaobaibai.com.cn/2020/04/19/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%B7%AF/"/>
+    <id>http://xiaobaibai.com.cn/2020/04/19/毕业设计的设计思路/</id>
+    <published>2020-04-19T09:36:41.000Z</published>
+    <updated>2020-06-14T16:45:43.232Z</updated>
+    
+    <summary type="html">
+    
+      做毕业设计的任务需求，设计目标，实现思路，存在的问题和解决方法
+    
+    </summary>
+    
+      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="毕业设计" scheme="http://xiaobaibai.com.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="设计思路" scheme="http://xiaobaibai.com.cn/tags/%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%B7%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>WPF框架MaterialDesignXamlToolkit</title>
+    <link href="http://xiaobaibai.com.cn/2020/04/19/WPF%E6%A1%86%E6%9E%B6MaterialDesignXamlToolkit/"/>
+    <id>http://xiaobaibai.com.cn/2020/04/19/WPF框架MaterialDesignXamlToolkit/</id>
+    <published>2020-04-19T08:43:31.000Z</published>
+    <updated>2020-06-14T16:45:43.231Z</updated>
+    
+    <summary type="html">
+    
+      为毕业设计选择UI设计框架，参考ArkDesktop作者的桌面应用程序设计
+    
+    </summary>
+    
+      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="UI框架" scheme="http://xiaobaibai.com.cn/tags/UI%E6%A1%86%E6%9E%B6/"/>
+    
+      <category term="桌面应用程序设计" scheme="http://xiaobaibai.com.cn/tags/%E6%A1%8C%E9%9D%A2%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1/"/>
+    
+      <category term="MaterialDesign" scheme="http://xiaobaibai.com.cn/tags/MaterialDesign/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>MarkDown语法</title>
+    <link href="http://xiaobaibai.com.cn/2020/04/18/md-grammar/"/>
+    <id>http://xiaobaibai.com.cn/2020/04/18/md-grammar/</id>
+    <published>2020-04-18T04:49:09.000Z</published>
+    <updated>2020-06-14T16:45:43.232Z</updated>
+    
+    <summary type="html">
+    
+      markdown常用的语法编写
+    
+    </summary>
+    
+      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="md语法" scheme="http://xiaobaibai.com.cn/tags/md%E8%AF%AD%E6%B3%95/"/>
+    
+      <category term="示例" scheme="http://xiaobaibai.com.cn/tags/%E7%A4%BA%E4%BE%8B/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hammer</title>
+    <link href="http://xiaobaibai.com.cn/2020/04/17/Hammer-C1/"/>
+    <id>http://xiaobaibai.com.cn/2020/04/17/Hammer-C1/</id>
+    <published>2020-04-17T10:19:34.000Z</published>
+    <updated>2020-06-14T16:45:43.230Z</updated>
+    
+    <summary type="html">
+    
+      世界起于双手，终于双手
+    
+    </summary>
+    
+      <category term="随想" scheme="http://xiaobaibai.com.cn/categories/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+      <category term="战锤" scheme="http://xiaobaibai.com.cn/tags/%E6%88%98%E9%94%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>本站域名设置cdn加速</title>
+    <link href="http://xiaobaibai.com.cn/2020/04/16/cdn/"/>
+    <id>http://xiaobaibai.com.cn/2020/04/16/cdn/</id>
+    <published>2020-04-16T09:54:50.000Z</published>
+    <updated>2020-06-14T16:45:43.231Z</updated>
+    
+    <summary type="html">
+    
+      给本站添加cdn加速的过程
+    
+    </summary>
+    
+      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="cdn" scheme="http://xiaobaibai.com.cn/tags/cdn/"/>
+    
+      <category term="阿里云" scheme="http://xiaobaibai.com.cn/tags/%E9%98%BF%E9%87%8C%E4%BA%91/"/>
+    
+      <category term="域名解析配置" scheme="http://xiaobaibai.com.cn/tags/%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90%E9%85%8D%E7%BD%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>开篇</title>
+    <link href="http://xiaobaibai.com.cn/2020/04/16/evils/"/>
+    <id>http://xiaobaibai.com.cn/2020/04/16/evils/</id>
+    <published>2020-04-15T16:10:36.000Z</published>
+    <updated>2020-06-14T16:45:43.232Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h1 id=&quot;万物皆有起源-这是开站第一篇博客&quot;&gt;&lt;a href=&quot;#万物皆有起源-这是开站第一篇博客&quot; class=&quot;headerlink&quot; title=&quot;万物皆有起源-这是开站第一篇博客&quot;&gt;&lt;/a&gt;万物皆有起源-这是开站第一篇博客&lt;/h1&gt;&lt;h2
+        
+      
+    
+    </summary>
+    
+      <category term="日常" scheme="http://xiaobaibai.com.cn/categories/%E6%97%A5%E5%B8%B8/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-Theme-Sakura</title>
+    <link href="http://xiaobaibai.com.cn/2018/12/12/Hexo-Theme-Sakura/"/>
+    <id>http://xiaobaibai.com.cn/2018/12/12/Hexo-Theme-Sakura/</id>
+    <published>2018-12-12T14:16:01.000Z</published>
+    <updated>2020-06-14T16:45:43.230Z</updated>
+    
+    <summary type="html">
+    
+      hexo-sakura主题使用教程
+    
+    </summary>
+    
+      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="web" scheme="http://xiaobaibai.com.cn/tags/web/"/>
+    
+      <category term="悦读" scheme="http://xiaobaibai.com.cn/tags/%E6%82%A6%E8%AF%BB/"/>
+    
+  </entry>
+  
+</feed>
