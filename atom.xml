@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiaobaibai.com.cn/"/>
-  <updated>2020-09-25T03:47:56.555Z</updated>
+  <updated>2020-09-25T06:36:14.308Z</updated>
   <id>http://xiaobaibai.com.cn/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>由遍历次序生成二叉树问题</title>
+    <link href="http://xiaobaibai.com.cn/2020/09/25/%E7%94%B1%E9%81%8D%E5%8E%86%E6%AC%A1%E5%BA%8F%E7%94%9F%E6%88%90%E4%BA%8C%E5%8F%89%E6%A0%91%E9%97%AE%E9%A2%98/"/>
+    <id>http://xiaobaibai.com.cn/2020/09/25/由遍历次序生成二叉树问题/</id>
+    <published>2020-09-25T06:10:36.000Z</published>
+    <updated>2020-09-25T06:36:14.308Z</updated>
+    
+    <summary type="html">
+    
+      leetcode上的由不同遍历次序生成二叉树的问题
+    
+    </summary>
+    
+      <category term="生活" scheme="http://xiaobaibai.com.cn/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="leetcode" scheme="http://xiaobaibai.com.cn/tags/leetcode/"/>
+    
+  </entry>
   
   <entry>
     <title>我的三体之章北海传</title>
