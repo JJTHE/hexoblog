@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiaobaibai.com.cn/"/>
-  <updated>2020-09-26T17:13:27.411Z</updated>
+  <updated>2020-09-25T06:36:14.308Z</updated>
   <id>http://xiaobaibai.com.cn/</id>
   
   <author>
@@ -15,30 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>RSSTest</title>
-    <link href="http://xiaobaibai.com.cn/2020/09/27/RSSTest/"/>
-    <id>http://xiaobaibai.com.cn/2020/09/27/RSSTest/</id>
-    <published>2020-09-26T17:10:18.000Z</published>
-    <updated>2020-09-26T17:13:27.411Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;测试RSS订阅功能&quot;&gt;&lt;a href=&quot;#测试RSS订阅功能&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-  </entry>
   
   <entry>
     <title>由遍历次序生成二叉树问题</title>
