@@ -445,6 +445,12 @@
 <li>优先级调度算法的动态优先级：系统进程&gt;用户进程，交互进程&gt;非交互进程，I/O进程&gt;计算进程</li>
 <li>周转时间 = 完成时间 - 提交时间</li>
 <li>响应比 = （ 作业时间 + 等待时间 ）/ 作业时间</li>
+<li>死锁避免与死锁预防是两回事。</li>
+<li>银行家算法就是要先保证至少完成一个任务，再考虑该任务释放出得资源能否完成其他任务。</li>
+<li>资源有序分配策略破坏的是“循环等待”条件。</li>
+<li>该操作是否需要互斥执行，看结果是否受影响。</li>
+<li>P操作为一次判断操作，有资源就拿到资源，没有资源就阻塞。</li>
+<li>V操作是释放操作，释放后唤醒阻塞队列队首进程。</li>
 </ul>
 <h1 id="计算机组成原理"><a href="#计算机组成原理" class="headerlink" title="计算机组成原理"></a>计算机组成原理</h1><ul>
 <li>中断向量是中断服务程序入口的地址。中断向量地址是中断服务程序入口地址的地址。</li>
@@ -535,7 +541,7 @@
     <div class="ins-search-mask"></div>
     <div class="ins-search-container">
         <div class="ins-input-wrapper">
-            <input type="text" class="ins-search-input" placeholder="Type something..."/>
+            <input type="text" class="ins-search-input" placeholder="请输入关键词..."/>
             <span class="ins-close ins-selectable"><i class="fa fa-times-circle"></i></span>
         </div>
         <div class="ins-section-wrapper">
@@ -547,10 +553,10 @@
 (function (window) {
     var INSIGHT_CONFIG = {
         TRANSLATION: {
-            POSTS: 'Posts',
-            // PAGES: 'Pages',
-            CATEGORIES: 'Categories',
-            TAGS: 'Tags',
+            POSTS: '文章',
+            // PAGES: '页面',
+            CATEGORIES: '分类',
+            TAGS: '标签',
         },
         ROOT_URL: '/',
         CONTENT_URL: '/content.json',
