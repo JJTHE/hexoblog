@@ -451,6 +451,7 @@
 <li>该操作是否需要互斥执行，看结果是否受影响。</li>
 <li>P操作为一次判断操作，有资源就拿到资源，没有资源就阻塞。</li>
 <li>V操作是释放操作，释放后唤醒阻塞队列队首进程。</li>
+<li>内存管理时：分段，分页，段页式到底都在做什么，要弄清楚。</li>
 </ul>
 <h1 id="计算机组成原理"><a href="#计算机组成原理" class="headerlink" title="计算机组成原理"></a>计算机组成原理</h1><ul>
 <li>中断向量是中断服务程序入口的地址。中断向量地址是中断服务程序入口地址的地址。</li>
@@ -483,9 +484,26 @@
       <div class="toc" style="background: none;"></div>
       <section class="post-squares nextprev">
         
+          
+            <div class="post-nepre half previous">
+          
+            <a href="/2020/11/10/数学分块计划/" rel="prev">
+              <div class="background">
+                <img class="lazyload" src="https://xiaobaibaiyihao.oss-cn-beijing.aliyuncs.com/xiaobaibai/img/loader/orange.progress-bar-stripe-loader.svg" data-src="https://xiaobaibaiyihao.oss-cn-beijing.aliyuncs.com/xiaobaibai/img/articles/2020-11-10%2B1.jpg" style="width: 100%; height: 100%; object-fit: cover; pointer-events: none;" onerror="imgError(this,3)" src="https://xiaobaibaiyihao.oss-cn-beijing.aliyuncs.com/xiaobaibai/img/articles/2020-11-10%2B1.jpg">
+              </div>
+              <span class="label">
+              Previous Post</span>
+              <div class="info">
+                <h3>
+                数学分块计划</h3>
+                <hr>
+              </div>
+            </a>
+          </div>
+        
         
           
-            <div class="post-nepre full next">
+            <div class="post-nepre half next">
           
             <a href="/2020/11/07/台球游戏制作思路/" rel="next">
               <div class="background">
@@ -541,7 +559,7 @@
     <div class="ins-search-mask"></div>
     <div class="ins-search-container">
         <div class="ins-input-wrapper">
-            <input type="text" class="ins-search-input" placeholder="请输入关键词..."/>
+            <input type="text" class="ins-search-input" placeholder="Type something..."/>
             <span class="ins-close ins-selectable"><i class="fa fa-times-circle"></i></span>
         </div>
         <div class="ins-section-wrapper">
@@ -553,10 +571,10 @@
 (function (window) {
     var INSIGHT_CONFIG = {
         TRANSLATION: {
-            POSTS: '文章',
-            // PAGES: '页面',
-            CATEGORIES: '分类',
-            TAGS: '标签',
+            POSTS: 'Posts',
+            // PAGES: 'Pages',
+            CATEGORIES: 'Categories',
+            TAGS: 'Tags',
         },
         ROOT_URL: '/',
         CONTENT_URL: '/content.json',
