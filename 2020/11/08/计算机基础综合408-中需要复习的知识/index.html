@@ -452,6 +452,12 @@
 <li>P操作为一次判断操作，有资源就拿到资源，没有资源就阻塞。</li>
 <li>V操作是释放操作，释放后唤醒阻塞队列队首进程。</li>
 <li>内存管理时：分段，分页，段页式到底都在做什么，要弄清楚。</li>
+<li>信噪比那部分，两个公式。奈奎斯特定理与香农定理。</li>
+<li>适用于压缩存储稀疏矩阵的是 三元组表和十字链表。</li>
+<li>无相图边数的两倍等于各顶点度数的总和。</li>
+<li>指令流水线数据通路不包括控制部件，五段式流水线可分为，取指令，译码，执行，访存，写回。通路包括，程序计数器，算计逻辑运算部件，通用寄存器组，取指部件。不包括控制部件。</li>
+<li>PC - I Express x 16 是串行传输方式。</li>
+<li>硬盘读写的基本单位：扇区。系统分配磁盘空间的基本单位：簇。</li>
 </ul>
 <h1 id="计算机组成原理"><a href="#计算机组成原理" class="headerlink" title="计算机组成原理"></a>计算机组成原理</h1><ul>
 <li>中断向量是中断服务程序入口的地址。中断向量地址是中断服务程序入口地址的地址。</li>
@@ -559,7 +565,7 @@
     <div class="ins-search-mask"></div>
     <div class="ins-search-container">
         <div class="ins-input-wrapper">
-            <input type="text" class="ins-search-input" placeholder="请输入关键词..."/>
+            <input type="text" class="ins-search-input" placeholder="Type something..."/>
             <span class="ins-close ins-selectable"><i class="fa fa-times-circle"></i></span>
         </div>
         <div class="ins-section-wrapper">
@@ -571,10 +577,10 @@
 (function (window) {
     var INSIGHT_CONFIG = {
         TRANSLATION: {
-            POSTS: '文章',
-            // PAGES: '页面',
-            CATEGORIES: '分类',
-            TAGS: '标签',
+            POSTS: 'Posts',
+            // PAGES: 'Pages',
+            CATEGORIES: 'Categories',
+            TAGS: 'Tags',
         },
         ROOT_URL: '/',
         CONTENT_URL: '/content.json',
