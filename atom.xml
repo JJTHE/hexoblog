@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://xiaobaibai.com.cn/"/>
-  <updated>2020-11-30T05:52:37.187Z</updated>
+  <updated>2021-09-30T13:10:08.041Z</updated>
   <id>http://xiaobaibai.com.cn/</id>
   
   <author>
@@ -17,131 +17,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>LeetCode解题思路</title>
-    <link href="http://xiaobaibai.com.cn/2020/11/30/LeetCode%E8%A7%A3%E9%A2%98%E6%80%9D%E8%B7%AF/"/>
-    <id>http://xiaobaibai.com.cn/2020/11/30/LeetCode解题思路/</id>
-    <published>2020-11-30T05:52:37.000Z</published>
-    <updated>2020-11-30T05:52:37.187Z</updated>
-    
-    <summary type="html">
-    
-    </summary>
-    
-      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>待补番列表</title>
-    <link href="http://xiaobaibai.com.cn/2020/11/28/%E5%BE%85%E8%A1%A5%E7%95%AA%E5%88%97%E8%A1%A8/"/>
-    <id>http://xiaobaibai.com.cn/2020/11/28/待补番列表/</id>
-    <published>2020-11-28T08:47:14.000Z</published>
-    <updated>2020-12-19T05:58:47.130Z</updated>
-    
-    <summary type="html">
-    
-      一个待补番的列表
-    
-    </summary>
-    
-      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="番剧" scheme="http://xiaobaibai.com.cn/tags/%E7%95%AA%E5%89%A7/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>数学分块计划</title>
-    <link href="http://xiaobaibai.com.cn/2020/11/10/%E6%95%B0%E5%AD%A6%E5%88%86%E5%9D%97%E8%AE%A1%E5%88%92/"/>
-    <id>http://xiaobaibai.com.cn/2020/11/10/数学分块计划/</id>
-    <published>2020-11-10T07:44:31.000Z</published>
-    <updated>2020-12-25T04:38:54.107Z</updated>
-    
-    <summary type="html">
-    
-      挨个类型题突击
-    
-    </summary>
-    
-      <category term="日常" scheme="http://xiaobaibai.com.cn/categories/%E6%97%A5%E5%B8%B8/"/>
-    
-    
-      <category term="数学" scheme="http://xiaobaibai.com.cn/tags/%E6%95%B0%E5%AD%A6/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>计算机基础综合408 中需要复习的知识</title>
-    <link href="http://xiaobaibai.com.cn/2020/11/08/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80%E7%BB%BC%E5%90%88408-%E4%B8%AD%E9%9C%80%E8%A6%81%E5%A4%8D%E4%B9%A0%E7%9A%84%E7%9F%A5%E8%AF%86/"/>
-    <id>http://xiaobaibai.com.cn/2020/11/08/计算机基础综合408-中需要复习的知识/</id>
-    <published>2020-11-08T11:49:23.000Z</published>
-    <updated>2020-12-25T04:38:54.107Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        
-        
-          &lt;h1 id=&quot;操作系统&quot;&gt;&lt;a href=&quot;#操作系统&quot; class=&quot;headerlink&quot;
-        
-      
-    
-    </summary>
-    
-      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>台球游戏制作思路</title>
-    <link href="http://xiaobaibai.com.cn/2020/11/07/%E5%8F%B0%E7%90%83%E6%B8%B8%E6%88%8F%E5%88%B6%E4%BD%9C%E6%80%9D%E8%B7%AF/"/>
-    <id>http://xiaobaibai.com.cn/2020/11/07/台球游戏制作思路/</id>
-    <published>2020-11-07T07:10:33.000Z</published>
-    <updated>2020-11-07T16:36:37.951Z</updated>
-    
-    <summary type="html">
-    
-      制作一个打台球的游戏，在这里记录一下设计思路
-    
-    </summary>
-    
-      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="游戏" scheme="http://xiaobaibai.com.cn/tags/%E6%B8%B8%E6%88%8F/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>每日学习打卡</title>
-    <link href="http://xiaobaibai.com.cn/2020/11/05/%E6%AF%8F%E6%97%A5%E5%AD%A6%E4%B9%A0%E6%89%93%E5%8D%A1/"/>
-    <id>http://xiaobaibai.com.cn/2020/11/05/每日学习打卡/</id>
-    <published>2020-11-05T13:40:16.000Z</published>
-    <updated>2020-12-19T06:02:26.078Z</updated>
-    
-    <summary type="html">
-    
-      在这里记录我每天的学习情况与睡眠情况
-    
-    </summary>
-    
-      <category term="生活" scheme="http://xiaobaibai.com.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-      <category term="打卡" scheme="http://xiaobaibai.com.cn/tags/%E6%89%93%E5%8D%A1/"/>
-    
-  </entry>
-  
-  <entry>
     <title>政治一些需要记住的内容</title>
     <link href="http://xiaobaibai.com.cn/2020/11/05/%E6%94%BF%E6%B2%BB%E4%B8%80%E4%BA%9B%E9%9C%80%E8%A6%81%E8%AE%B0%E4%BD%8F%E7%9A%84%E5%86%85%E5%AE%B9/"/>
     <id>http://xiaobaibai.com.cn/2020/11/05/政治一些需要记住的内容/</id>
     <published>2020-11-05T13:37:15.000Z</published>
-    <updated>2020-12-25T04:38:46.647Z</updated>
+    <updated>2021-09-30T13:10:08.041Z</updated>
     
     <summary type="html">
     
@@ -161,7 +41,7 @@
     <link href="http://xiaobaibai.com.cn/2020/09/25/%E7%94%B1%E9%81%8D%E5%8E%86%E6%AC%A1%E5%BA%8F%E7%94%9F%E6%88%90%E4%BA%8C%E5%8F%89%E6%A0%91%E9%97%AE%E9%A2%98/"/>
     <id>http://xiaobaibai.com.cn/2020/09/25/由遍历次序生成二叉树问题/</id>
     <published>2020-09-25T06:10:36.000Z</published>
-    <updated>2020-09-25T06:36:14.308Z</updated>
+    <updated>2021-09-30T13:10:08.044Z</updated>
     
     <summary type="html">
     
@@ -181,7 +61,7 @@
     <link href="http://xiaobaibai.com.cn/2020/09/25/%E6%88%91%E7%9A%84%E4%B8%89%E4%BD%93%E4%B9%8B%E7%AB%A0%E5%8C%97%E6%B5%B7%E4%BC%A0/"/>
     <id>http://xiaobaibai.com.cn/2020/09/25/我的三体之章北海传/</id>
     <published>2020-09-25T02:34:18.000Z</published>
-    <updated>2020-09-25T03:47:56.555Z</updated>
+    <updated>2021-09-30T13:10:08.039Z</updated>
     
     <summary type="html">
     
@@ -201,7 +81,7 @@
     <link href="http://xiaobaibai.com.cn/2020/09/23/mac%E4%B8%8Ahexo-g-%E7%94%9F%E6%88%90%E7%A9%BA%E9%A1%B5%E9%9D%A2%E9%97%AE%E9%A2%98/"/>
     <id>http://xiaobaibai.com.cn/2020/09/23/mac上hexo-g-生成空页面问题/</id>
     <published>2020-09-23T08:11:19.000Z</published>
-    <updated>2020-09-23T08:36:11.715Z</updated>
+    <updated>2021-09-30T13:10:08.036Z</updated>
     
     <summary type="html">
     
@@ -217,51 +97,11 @@
   </entry>
   
   <entry>
-    <title>氟化工泄漏风险评估计算器使用反馈</title>
-    <link href="http://xiaobaibai.com.cn/2020/06/04/%E6%B0%9F%E5%8C%96%E5%B7%A5%E6%B3%84%E6%BC%8F%E9%A3%8E%E9%99%A9%E8%AF%84%E4%BC%B0%E8%AE%A1%E7%AE%97%E5%99%A8%E4%BD%BF%E7%94%A8%E5%8F%8D%E9%A6%88/"/>
-    <id>http://xiaobaibai.com.cn/2020/06/04/氟化工泄漏风险评估计算器使用反馈/</id>
-    <published>2020-06-03T17:12:16.000Z</published>
-    <updated>2020-06-14T16:45:43.232Z</updated>
-    
-    <summary type="html">
-    
-      氟化工管路泄漏风险计算器使用问题反馈
-    
-    </summary>
-    
-      <category term="生活" scheme="http://xiaobaibai.com.cn/categories/%E7%94%9F%E6%B4%BB/"/>
-    
-    
-      <category term="BUG反馈" scheme="http://xiaobaibai.com.cn/tags/BUG%E5%8F%8D%E9%A6%88/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>汉诺塔问题</title>
-    <link href="http://xiaobaibai.com.cn/2020/05/04/%E6%B1%89%E8%AF%BA%E5%A1%94%E9%97%AE%E9%A2%98/"/>
-    <id>http://xiaobaibai.com.cn/2020/05/04/汉诺塔问题/</id>
-    <published>2020-05-04T05:04:33.000Z</published>
-    <updated>2020-06-14T16:45:43.233Z</updated>
-    
-    <summary type="html">
-    
-      汉诺塔问题的一个C#递归解法
-    
-    </summary>
-    
-      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="汉诺塔问题 算法" scheme="http://xiaobaibai.com.cn/tags/%E6%B1%89%E8%AF%BA%E5%A1%94%E9%97%AE%E9%A2%98-%E7%AE%97%E6%B3%95/"/>
-    
-  </entry>
-  
-  <entry>
     <title>codeSnippet</title>
     <link href="http://xiaobaibai.com.cn/2020/05/03/codeSnippet/"/>
     <id>http://xiaobaibai.com.cn/2020/05/03/codeSnippet/</id>
     <published>2020-05-03T11:02:16.000Z</published>
-    <updated>2020-06-14T16:45:43.231Z</updated>
+    <updated>2021-09-30T13:10:08.035Z</updated>
     
     <summary type="html">
     
@@ -281,7 +121,7 @@
     <link href="http://xiaobaibai.com.cn/2020/05/02/C-lessons-02-note/"/>
     <id>http://xiaobaibai.com.cn/2020/05/02/C-lessons-02-note/</id>
     <published>2020-05-02T01:58:01.000Z</published>
-    <updated>2020-06-14T16:45:43.230Z</updated>
+    <updated>2021-09-30T13:10:08.033Z</updated>
     
     <summary type="html">
     
@@ -297,55 +137,11 @@
   </entry>
   
   <entry>
-    <title>WPF控件使用方法</title>
-    <link href="http://xiaobaibai.com.cn/2020/04/21/WPF%E6%8E%A7%E4%BB%B6%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95/"/>
-    <id>http://xiaobaibai.com.cn/2020/04/21/WPF控件使用方法/</id>
-    <published>2020-04-21T12:26:35.000Z</published>
-    <updated>2020-06-14T16:45:43.230Z</updated>
-    
-    <summary type="html">
-    
-      网上找不到WPF各个控件的详细使用文档，在这里做一个初步总结
-    
-    </summary>
-    
-      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="WPF控件" scheme="http://xiaobaibai.com.cn/tags/WPF%E6%8E%A7%E4%BB%B6/"/>
-    
-      <category term="使用方法总结" scheme="http://xiaobaibai.com.cn/tags/%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95%E6%80%BB%E7%BB%93/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>毕业设计的设计思路</title>
-    <link href="http://xiaobaibai.com.cn/2020/04/19/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1%E7%9A%84%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%B7%AF/"/>
-    <id>http://xiaobaibai.com.cn/2020/04/19/毕业设计的设计思路/</id>
-    <published>2020-04-19T09:36:41.000Z</published>
-    <updated>2020-06-14T16:45:43.232Z</updated>
-    
-    <summary type="html">
-    
-      做毕业设计的任务需求，设计目标，实现思路，存在的问题和解决方法
-    
-    </summary>
-    
-      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="毕业设计" scheme="http://xiaobaibai.com.cn/tags/%E6%AF%95%E4%B8%9A%E8%AE%BE%E8%AE%A1/"/>
-    
-      <category term="设计思路" scheme="http://xiaobaibai.com.cn/tags/%E8%AE%BE%E8%AE%A1%E6%80%9D%E8%B7%AF/"/>
-    
-  </entry>
-  
-  <entry>
     <title>WPF框架MaterialDesignXamlToolkit</title>
     <link href="http://xiaobaibai.com.cn/2020/04/19/WPF%E6%A1%86%E6%9E%B6MaterialDesignXamlToolkit/"/>
     <id>http://xiaobaibai.com.cn/2020/04/19/WPF框架MaterialDesignXamlToolkit/</id>
     <published>2020-04-19T08:43:31.000Z</published>
-    <updated>2020-06-14T16:45:43.231Z</updated>
+    <updated>2021-09-30T13:10:08.035Z</updated>
     
     <summary type="html">
     
@@ -365,33 +161,11 @@
   </entry>
   
   <entry>
-    <title>MarkDown语法</title>
-    <link href="http://xiaobaibai.com.cn/2020/04/18/md-grammar/"/>
-    <id>http://xiaobaibai.com.cn/2020/04/18/md-grammar/</id>
-    <published>2020-04-18T04:49:09.000Z</published>
-    <updated>2020-06-14T16:45:43.232Z</updated>
-    
-    <summary type="html">
-    
-      markdown常用的语法编写
-    
-    </summary>
-    
-      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
-    
-    
-      <category term="md语法" scheme="http://xiaobaibai.com.cn/tags/md%E8%AF%AD%E6%B3%95/"/>
-    
-      <category term="示例" scheme="http://xiaobaibai.com.cn/tags/%E7%A4%BA%E4%BE%8B/"/>
-    
-  </entry>
-  
-  <entry>
     <title>Hammer</title>
     <link href="http://xiaobaibai.com.cn/2020/04/17/Hammer-C1/"/>
     <id>http://xiaobaibai.com.cn/2020/04/17/Hammer-C1/</id>
     <published>2020-04-17T10:19:34.000Z</published>
-    <updated>2020-06-14T16:45:43.230Z</updated>
+    <updated>2021-09-30T13:10:08.034Z</updated>
     
     <summary type="html">
     
@@ -411,7 +185,7 @@
     <link href="http://xiaobaibai.com.cn/2020/04/16/cdn/"/>
     <id>http://xiaobaibai.com.cn/2020/04/16/cdn/</id>
     <published>2020-04-16T09:54:50.000Z</published>
-    <updated>2020-06-14T16:45:43.231Z</updated>
+    <updated>2021-09-30T13:10:08.035Z</updated>
     
     <summary type="html">
     
@@ -427,6 +201,28 @@
       <category term="阿里云" scheme="http://xiaobaibai.com.cn/tags/%E9%98%BF%E9%87%8C%E4%BA%91/"/>
     
       <category term="域名解析配置" scheme="http://xiaobaibai.com.cn/tags/%E5%9F%9F%E5%90%8D%E8%A7%A3%E6%9E%90%E9%85%8D%E7%BD%AE/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hexo-Theme-Sakura</title>
+    <link href="http://xiaobaibai.com.cn/2018/12/12/Hexo-Theme-Sakura/"/>
+    <id>http://xiaobaibai.com.cn/2018/12/12/Hexo-Theme-Sakura/</id>
+    <published>2018-12-12T14:16:01.000Z</published>
+    <updated>2021-09-30T13:10:08.034Z</updated>
+    
+    <summary type="html">
+    
+      hexo-sakura主题使用教程
+    
+    </summary>
+    
+      <category term="技术" scheme="http://xiaobaibai.com.cn/categories/%E6%8A%80%E6%9C%AF/"/>
+    
+    
+      <category term="web" scheme="http://xiaobaibai.com.cn/tags/web/"/>
+    
+      <category term="悦读" scheme="http://xiaobaibai.com.cn/tags/%E6%82%A6%E8%AF%BB/"/>
     
   </entry>
   
